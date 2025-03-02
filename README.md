@@ -25,7 +25,14 @@
 
 
 ## 🤖 My Role and Contributions:                                                                                                                                                                   
-*As a key member of our six-person team comprised of* **Thusharakesh, Sayantha, Prasad, Vasunthar, Kedaran, and myself.**                                                                                           
+*As a key member of our six-person team comprised of* **Thusharakesh, Sayantha, Prasad, Vasunthar, Kedaran, and myself.** 
+
+
+<div align="center">
+  <img src="https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine/blob/main/Group_R03.jpg" alt="Alt text">
+</div>
+
+
 #### *I contributed to the project in several key areas:*
 
   *✅ Embedded Systems & Programming: I led the development of the Arduino-based control program, which was integral in automating the machine's functions, including motor control and sensor integration. This 
