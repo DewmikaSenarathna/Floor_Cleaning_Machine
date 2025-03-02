@@ -49,9 +49,9 @@
    #### *Our cleaning machine is composed of several innovative components that contribute to its efficiency and functionality:*  
 
 
- <div align="center">
+<div align="center">
   <img src="https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine/blob/main/Machine.jpg" alt="Alt text">
- </div>
+</div>
 
   *🔹Sweeping Roller: A motor-driven roller rotates opposite to the machine’s movement, efficiently sweeping debris into the garbage collector.  
   🔹Mopping Roller: Dispenses water from the top-mounted tank and evenly mops the floor, ensuring thorough cleaning.  
@@ -76,6 +76,11 @@
   *This project stands as a testament to our team’s commitment to innovation, sustainability, and technical excellence. Through effective teamwork and a shared vision, we created a multifunctional and eco- 
   friendly product that reduces labor while enhancing floor cleaning efficiency. I am proud to have contributed to the project’s success and look forward to showcasing its potential impact in the professional 
   field.*
+
+
+<div align="center">
+  <img src="https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine/blob/main/Group_R03_Laboratory_Floor_Cleaning_Machine.jpg" alt="Alt text">
+</div>
 
 
 *🌍 I have uploaded the project's technical resources, including the Arduino code and design documentation, to my GitHub repository.*  
