@@ -1,8 +1,8 @@
-#🚀 Exciting Project Milestone! 🚀
+# 🚀 Exciting Project Milestone! 🚀
 
-##**Laboratory Floor Cleaning Machine – Group R Project**
+## ** Laboratory Floor Cleaning Machine – Group R Project **
 
-###🧼 Project Overview:                                                                                                                                                                                             
+### 🧼 Project Overview:                                                                                                                                                                                             
 In our 3rd-semester Design and Prototyping (ID3020) course, Group R developed an innovative, multifunctional, and eco-friendly laboratory floor cleaning machine. This project aimed to provide an automated, efficient, and sustainable solution for cleaning laboratory floors. The machine is capable of sweeping, mopping, and drying, effectively reducing the need for manual labor while enhancing cleaning efficiency. Through the integration of eco-friendly materials and renewable energy preferences, we designed this machine to minimize environmental impact while maximizing performance. 
 
 ###🧹 Key Specifications:                                                                                                                                                                                             
