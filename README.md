@@ -2,7 +2,10 @@
 
 
 
-![Alt text](https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine/blob/main/Logo_R03.png)
+<div align="center">
+  <img src="https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine/blob/main/Logo_R03.png" alt="Alt text" width="200" height="200">
+</div>
+
 
 
 ## 🧼 Project Overview:                                                                                                                                                                                             
