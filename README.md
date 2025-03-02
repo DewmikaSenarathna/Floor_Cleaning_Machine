@@ -15,7 +15,7 @@ In our 3rd-semester Design and Prototyping (ID3020) course, Group R developed an
   🔹Cost Efficiency: Total project cost was capped at Rs. 12,000, ensuring budget-friendly production while maintaining high standards.  
 
 🤖 My Role and Contributions:                                                                                                                                                                   
-As a key member of our six-person team comprised of Thusharakesh, Sayantha, Prasad, Vasunthar, Kedaran, and myself. I contributed to the project in several key areas:
+As a key member of our six-person team comprised of Thusharakesh, Sayantha, Prasad, Vasunthar, Kedaran, and myself.                                                                                                I contributed to the project in several key areas:
 
   ✅ Embedded Systems & Programming: I led the development of the Arduino-based control program, which was integral in automating the machine's functions, including motor control and sensor integration. This 
       ensured smooth synchronization between the machine’s various automated systems.  
