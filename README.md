@@ -18,13 +18,9 @@ In our 3rd-semester Design and Prototyping (ID3020) course, Group R developed an
 As a key member of our six-person team comprised of Thusharakesh, Sayantha, Prasad, Vasunthar, Kedaran, and myself. I contributed to the project in several key areas:
 
  ✅ Embedded Systems & Programming: I led the development of the Arduino-based control program, which was integral in automating the machine's functions, including motor control and sensor integration. This ensured smooth synchronization between the machine’s various automated systems.  
-
  ✅ Remote Control Integration: I implemented a Bluetooth-based remote control system, enabling seamless operation through a mobile app. This provided ease of use and enhanced accessibility for users.  
-
  ✅ System Assembly & Automation: I coordinated the assembly and integration of all machine components, including motors, sensors, and other mechanical systems, ensuring smooth operation.  
-
  ✅ Fabrication & Mechanical Work: In addition to programming, I was actively involved in the physical construction of the machine. This included tasks such as woodworking, welding, and ensuring the precise fitting of each component. 
- 
  ✅ Design & Prototyping: I collaborated closely on the machine's design, ensuring it was not only functional but also durable, efficient, and user-friendly.
 
 📱 Machine Components:
