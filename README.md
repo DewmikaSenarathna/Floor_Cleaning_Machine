@@ -1,26 +1,54 @@
-# floorCleaningMachine
 🚀 Exciting Project Milestone! 🚀
 
-I am thrilled to share the successful completion of our laboratory floor-cleaning machine project, developed as part of the Design and Prototyping (ID3020) course! 🧼🤖
+Laboratory Floor Cleaning Machine – Group R Project
 
-Our R3 team put in extensive effort to bring this innovative solution to life, blending functionality with sustainability. Here’s what makes our project stand out:
+🧼 Project Overview:
+In our 3rd-semester Design and Prototyping (ID3020) course, Group R developed an innovative, multifunctional, and eco-friendly laboratory floor cleaning machine. This project aimed to provide an automated, efficient, and sustainable solution for cleaning laboratory floors. The machine is capable of sweeping, mopping, and drying, effectively reducing the need for manual labor while enhancing cleaning efficiency. Through the integration of eco-friendly materials and renewable energy preferences, we designed this machine to minimize environmental impact while maximizing performance. 
 
-Key Features:
-🧹 Efficient Cleaning: A high-speed rotating roller efficiently collects debris into an integrated garbage collector. Sweeps a 5 m² area in just 30 seconds using a high-speed rotating sweeping roller.
+🧹 Key Specifications:
+  🔹Dimensions: 100 cm x 100 cm x 100 cm (or smaller) compact for easy maneuverability within confined spaces.  
+  🔹Weight: Under 20 kg lightweight and portable for easy transportation and handling.  
+  🔹Cleaning Efficiency: Capable of sweeping a 5 m² area in 30 seconds, ensuring quick and effective cleaning.  
+  🔹Power Source: Compatible with various power sources, including renewable energy options. 
+  🔹Control System: Fully automated with Bluetooth remote control, ensuring user-friendly and wireless operation.  
+  🔹Environmental Impact: Constructed with recyclable and reusable materials, contributing to sustainability.  
+  🔹Cost Efficiency: Total project cost was capped at Rs. 12,000, ensuring budget-friendly production while maintaining high standards.  
 
-💧 Versatile Floor Care: A sponge system effectively absorbs spilled liquids. A water pump with a dropping mechanism wets the floor, followed by a mopping roller and rotating mopping disks for thorough cleaning. The process is completed with cooling fans that ensure rapid drying.
+🤖 My Role and Contributions: 
+As a key member of our six-person team comprised of Thusharakesh, Sayantha, Prasad, Vasunthar, Kedaran, and myself. I contributed to the project in several key areas:
 
-🌍 Eco-Friendly Design: Built with recyclable/reusable materials and scavenged components, powered by mostly renewable energy sources.
+ ✅ Embedded Systems & Programming: I led the development of the Arduino-based control program, which was integral in automating the machine's functions, including motor control and sensor integration. This ensured smooth synchronization between the machine’s various automated systems.  
 
-📱 Smart Control: Operated through a Bluetooth-enabled mobile app, ensuring ease of use and remote control capabilities.
+ ✅ Remote Control Integration: I implemented a Bluetooth-based remote control system, enabling seamless operation through a mobile app. This provided ease of use and enhanced accessibility for users.  
 
-⚙️ Technical Details:
-Compact & Lightweight: Less than 100 cm³ in size and weighs under 20 kg.
-Environmentally Conscious: Prioritizes sustainability without compromising performance.
+ ✅ System Assembly & Automation: I coordinated the assembly and integration of all machine components, including motors, sensors, and other mechanical systems, ensuring smooth operation.  
 
-💻 This project was a fantastic opportunity to apply my skills in Arduino programming, mobile app development, and sustainable engineering. I’m proud of our team’s achievement and excited about the potential impact of this machine.
+ ✅ Fabrication & Mechanical Work: In addition to programming, I was actively involved in the physical construction of the machine. This included tasks such as woodworking, welding, and ensuring the precise fitting of each component. 
+ 
+ ✅ Design & Prototyping: I collaborated closely on the machine's design, ensuring it was not only functional but also durable, efficient, and user-friendly.
 
-🔗 Check out the full project details: https://github.com/DewmikaSenarathna/floorCleaningMachine
+📱 Machine Components:
+Our cleaning machine is composed of several innovative components that contribute to its efficiency and functionality:
 
-I’d love to hear your thoughts and feedback as we continue to explore innovative solutions in engineering! 🌟
+ 🔹Sweeping Roller: A motor-driven roller rotates opposite to the machine’s movement, efficiently sweeping debris into the garbage collector.  
+ 🔹Mopping Roller: Dispenses water from the top-mounted tank and evenly mops the floor, ensuring thorough cleaning.  
+ 🔹Wiping Disk: Rotates to dry the floor after mopping, leaving it clean and dry.  
+ 🔹Drying Fan: Accelerates the drying process by providing additional air circulation.  
+ 🔹Water Tank: Stores water to supply the mopping system for wet cleaning.  
+ 🔹Sensors: Detect obstacles and prevent collisions, ensuring smooth navigation and safety during operation.  
+ 🔹Garbage Collector: Captures debris collected by the sweeping roller, maintaining cleanliness throughout the operation.
 
+⚙️ Operational Mechanism: 
+The cleaning machine operates in a three-step sequence that ensures maximum efficiency:
+
+1. Sweeping: The front-mounted sweeping roller picks up debris and directs it into the garbage collector.  
+2. Mopping: Water from the tank is dispensed onto the floor via the mopping roller, ensuring even moisture distribution.  
+3. Drying: The wiping disk, along with the drying fan, ensures that the floor is left dry and spotless after mopping.
+
+💻 Conclusion: 
+This project stands as a testament to our team’s commitment to innovation, sustainability, and technical excellence. Through effective teamwork and a shared vision, we created a multifunctional and eco-friendly product that reduces labor while enhancing floor cleaning efficiency. I am proud to have contributed to the project’s success and look forward to showcasing its potential impact in the professional field.
+
+🌍 I have uploaded the project's technical resources, including the Arduino code and design documentation, to my GitHub repository.  
+🔗 Check out the full project details: https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine.git
+
+🌟 I’d love to hear your thoughts and feedback as we continue to explore innovative solutions in engineering!
