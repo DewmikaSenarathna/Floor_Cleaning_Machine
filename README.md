@@ -9,7 +9,7 @@ In our 3rd-semester Design and Prototyping (ID3020) course, Group R developed an
   🔹Dimensions: 100 cm x 100 cm x 100 cm (or smaller) compact for easy maneuverability within confined spaces.  
   🔹Weight: Under 20 kg lightweight and portable for easy transportation and handling.  
   🔹Cleaning Efficiency: Capable of sweeping a 5 m² area in 30 seconds, ensuring quick and effective cleaning.  
-  🔹Power Source: Compatible with various power sources, including renewable energy options. 
+  🔹Power Source: Compatible with various power sources, including renewable energy options.                                                                                                                       
   🔹Control System: Fully automated with Bluetooth remote control, ensuring user-friendly and wireless operation.  
   🔹Environmental Impact: Constructed with recyclable and reusable materials, contributing to sustainability.  
   🔹Cost Efficiency: Total project cost was capped at Rs. 12,000, ensuring budget-friendly production while maintaining high standards.  
