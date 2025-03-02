@@ -1,9 +1,9 @@
 # **Laboratory Floor Cleaning Machine**
 
 
-<p align="center">
-  ![Alt text](https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine/blob/main/Logo_R03.png)
-</p>
+
+![Alt text](https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine/blob/main/Logo_R03.png)
+
 
 ## 🧼 Project Overview:                                                                                                                                                                                             
 *In our 3rd-semester Design and Prototyping (ID3020) course, Group R developed an innovative, multifunctional, and eco-friendly laboratory floor cleaning machine. This project aimed to provide an automated, efficient, and sustainable solution for cleaning laboratory floors. The machine is capable of sweeping, mopping, and drying, effectively reducing the need for manual labor while enhancing cleaning efficiency. Through the integration of eco-friendly materials and renewable energy preferences, we designed this machine to minimize environmental impact while maximizing performance.* 
