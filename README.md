@@ -1,4 +1,4 @@
-# **🚀 Laboratory Floor Cleaning Machine – Group R Project 🚀**
+# **Laboratory Floor Cleaning Machine – Group R Project **
 
 ## 🧼 Project Overview:                                                                                                                                                                                             
 In our 3rd-semester Design and Prototyping (ID3020) course, Group R developed an innovative, multifunctional, and eco-friendly laboratory floor cleaning machine. This project aimed to provide an automated, efficient, and sustainable solution for cleaning laboratory floors. The machine is capable of sweeping, mopping, and drying, effectively reducing the need for manual labor while enhancing cleaning efficiency. Through the integration of eco-friendly materials and renewable energy preferences, we designed this machine to minimize environmental impact while maximizing performance. 
@@ -14,7 +14,7 @@ In our 3rd-semester Design and Prototyping (ID3020) course, Group R developed an
 
 ## 🤖 My Role and Contributions:                                                                                                                                                                   
 As a key member of our six-person team comprised of **Thusharakesh, Sayantha, Prasad, Vasunthar, Kedaran, and myself.**                                                                                           
-### I contributed to the project in several key areas:
+#### I contributed to the project in several key areas:
 
   ✅ Embedded Systems & Programming: I led the development of the Arduino-based control program, which was integral in automating the machine's functions, including motor control and sensor integration. This 
       ensured smooth synchronization between the machine’s various automated systems.  
@@ -25,7 +25,7 @@ As a key member of our six-person team comprised of **Thusharakesh, Sayantha, Pr
   ✅ Design & Prototyping: I collaborated closely on the machine's design, ensuring it was not only functional but also durable, efficient, and user-friendly.
 
 ## 📱 Machine Components:                                                                                                                                                                                     
-   ### Our cleaning machine is composed of several innovative components that contribute to its efficiency and functionality:                                                                              
+   #### Our cleaning machine is composed of several innovative components that contribute to its efficiency and functionality:                                                                              
 
   🔹Sweeping Roller: A motor-driven roller rotates opposite to the machine’s movement, efficiently sweeping debris into the garbage collector.  
   🔹Mopping Roller: Dispenses water from the top-mounted tank and evenly mops the floor, ensuring thorough cleaning.  
@@ -36,7 +36,7 @@ As a key member of our six-person team comprised of **Thusharakesh, Sayantha, Pr
   🔹Garbage Collector: Captures debris collected by the sweeping roller, maintaining cleanliness throughout the operation.
 
 ## ⚙️ Operational Mechanism:                                                                                                                                                                                 
-   ### The cleaning machine operates in a three-step sequence that ensures maximum efficiency:                                                                                                                  
+   #### The cleaning machine operates in a three-step sequence that ensures maximum efficiency:                                                                                                                  
 
   1. Sweeping: The front-mounted sweeping roller picks up debris and directs it into the garbage collector.  
   2. Mopping: Water from the tank is dispensed onto the floor via the mopping roller, ensuring even moisture distribution.  
