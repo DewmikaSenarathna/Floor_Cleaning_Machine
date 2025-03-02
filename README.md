@@ -46,7 +46,12 @@
 
 
 ## 📱 Machine Components:                                                                                                                                                                                     
-   #### *Our cleaning machine is composed of several innovative components that contribute to its efficiency and functionality:*                                                                              
+   #### *Our cleaning machine is composed of several innovative components that contribute to its efficiency and functionality:*  
+
+
+ <div align="center">
+  <img src="https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine/blob/main/Machine.jpg" alt="Alt text">
+ </div>
 
   *🔹Sweeping Roller: A motor-driven roller rotates opposite to the machine’s movement, efficiently sweeping debris into the garbage collector.  
   🔹Mopping Roller: Dispenses water from the top-mounted tank and evenly mops the floor, ensuring thorough cleaning.  
