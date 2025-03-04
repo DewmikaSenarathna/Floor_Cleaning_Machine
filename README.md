@@ -6,12 +6,12 @@
   <img src="https://github.com/DewmikaSenarathna/Floor_Cleaning_Machine/blob/main/Logo_R03.png" alt="Alt text">
 </div>
 
-
+---
 
 ## 🧼 Project Overview:                                                                                                                                                                                             
 *In our 3rd-semester Design and Prototyping (ID3020) course, Group R developed an innovative, multifunctional, and eco-friendly laboratory floor cleaning machine. This project aimed to provide an automated, efficient, and sustainable solution for cleaning laboratory floors. The machine is capable of sweeping, mopping, and drying, effectively reducing the need for manual labor while enhancing cleaning efficiency. Through the integration of eco-friendly materials and renewable energy preferences, we designed this machine to minimize environmental impact while maximizing performance.* 
 
-
+---
 
 ## 🧹 Key Specifications:                                                                                                                                                                                             
   *🔹Dimensions: 100 cm x 100 cm x 100 cm (or smaller) compact for easy maneuverability within confined spaces.  
@@ -22,7 +22,7 @@
   🔹Environmental Impact: Constructed with recyclable and reusable materials, contributing to sustainability.  
   🔹Cost Efficiency: Total project cost was capped at Rs. 12,000, ensuring budget-friendly production while maintaining high standards.*  
 
-
+---
 
 ## 🤖 My Role and Contributions:                                                                                                                                                                   
 *As a key member of our six-person team comprised of* **Thusharakesh, Sayantha, Prasad, Vasunthar, Kedaran, and myself.** 
@@ -38,7 +38,7 @@
      fitting of each component.                                                                                                                                                                                
   ✅ Design & Prototyping: I collaborated closely on the machine's design, ensuring it was not only functional but also durable, efficient, and user-friendly.*
 
-
+---
 
 ## 📱 Machine Components:                                                                                                                                                                                     
    #### *Our cleaning machine is composed of several innovative components that contribute to its efficiency and functionality:*  
@@ -56,7 +56,7 @@
   🔹Sensors: Detect obstacles and prevent collisions, ensuring smooth navigation and safety during operation.  
   🔹Garbage Collector: Captures debris collected by the sweeping roller, maintaining cleanliness throughout the operation.*
 
-
+---
 
 ## ⚙️ Operational Mechanism:                                                                                                                                                                                 
    #### *The cleaning machine operates in a three-step sequence that ensures maximum efficiency:*                                                                                                                  
@@ -65,7 +65,7 @@
   2. Mopping: Water from the tank is dispensed onto the floor via the mopping roller, ensuring even moisture distribution.  
   3. Drying: The wiping disk, along with the drying fan, ensures that the floor is left dry and spotless after mopping.*
 
-
+---
 
 ## 💻 Conclusion:                                                                                                                                                                                                  
   *This project stands as a testament to our team’s commitment to innovation, sustainability, and technical excellence. Through effective teamwork and a shared vision, we created a multifunctional and eco- 
